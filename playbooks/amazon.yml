@@ -16,11 +16,12 @@
       "7": "eu-central-1"
       "8": "eu-west-1"
       "9": "eu-west-2"
-      "10": "sa-east-1"
-      "11": "us-east-1"
-      "12": "us-east-2"
-      "13": "us-west-1"
-      "14": "us-west-2"
+      "10": "eu-west-3"
+      "11": "sa-east-1"
+      "12": "us-east-1"
+      "13": "us-east-2"
+      "14": "us-west-1"
+      "15": "us-west-2"
 
   # These variable files are included so the ec2-security-group role
   # knows which ports to open
@@ -48,11 +49,12 @@
           7. EU             (Frankfurt)
           8. EU             (Ireland)
           9. EU             (London)
-          10. South America (Sao Paulo)
-          11. US East       (Northern Virginia)
-          12. US East       (Ohio)
-          13. US West       (Northern California)
-          14. US West       (Oregon)
+          10. EU            (Paris)
+          11. South America (Sao Paulo)
+          12. US East       (Northern Virginia)
+          13. US East       (Ohio)
+          14. US West       (Northern California)
+          15. US West       (Oregon)
         Please choose the number of your region. Press enter for default (#3) region.
       default: "3"
       private: no
